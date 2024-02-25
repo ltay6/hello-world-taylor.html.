@@ -1,1 +1,12 @@
-# hello-world-taylor.html.
+cti 110
+Letitia Taylor
+2-21-2024  
+<!Doctype html>
+<html>
+  <head>
+    <title> hello world,a little bit about me </title> 
+  </head>
+  <body>
+    <hi> hello world,I'm Letitia Taylor</hi>  
+  </body>
+</html> https://github.com/ltay6/hello-world-taylor.html
